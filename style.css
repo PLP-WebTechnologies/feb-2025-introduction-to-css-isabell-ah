@@ -1,0 +1,32 @@
+body {
+  background-color: #222;
+}
+.main-title {
+  font-family: 'Georgia', serif;
+  color: #ddd;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#intro-text {
+  font-size: 18px;
+  padding: 10px;
+  background-color: #f0f8ff;
+  border-left: 4px solid steelblue;
+  margin: 20px;
+}
+
+.styled-image {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid #ccc;
+  border-radius: 10px;
+}
+
+.content-box {
+  background-color: #eaf4fc;
+  padding: 15px;
+  margin: 25px;
+  border: 2px dashed #0077b6;
+  font-family: Arial, sans-serif;
+}
